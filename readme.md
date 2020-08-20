@@ -1,4 +1,4 @@
-# Tetr.js
+# Tetris
 
 ### Default Controls:
 
